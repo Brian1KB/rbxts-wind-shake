@@ -1,6 +1,6 @@
 {
-  "name": "@rbxts/rbxts-wind-shake",
-  "version": "1.0.3",
+  "name": "@rbxts/wind-shake",
+  "version": "1.0.0",
   "description": "",
   "main": "out/init.lua",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/Polo1K/rbxts-wind-shake#readme",
   "publishConfig": {
     "access": "public"
   },
